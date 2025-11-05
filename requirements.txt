@@ -1,5 +1,3 @@
 gradio
-requests
 transformers
-torch
 Pillow
